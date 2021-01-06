@@ -1,0 +1,10 @@
+# no dependencies
+node_modules/
+
+# dotenv environment variables file
+.env
+.env.test
+.env*.local
+
+# no build output
+dist/
